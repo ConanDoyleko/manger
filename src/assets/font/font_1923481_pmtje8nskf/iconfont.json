@@ -1,0 +1,30 @@
+{
+  "id": "1923481",
+  "name": "element",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6508137",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "3265772",
+      "name": "退出",
+      "font_class": "tuichu",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "11183293",
+      "name": "退出",
+      "font_class": "tuichu1",
+      "unicode": "ed4f",
+      "unicode_decimal": 60751
+    }
+  ]
+}
